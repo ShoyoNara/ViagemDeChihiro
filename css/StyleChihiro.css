@@ -1,0 +1,191 @@
+body{
+    background-color: rgb(76, 187, 214);
+}
+
+
+
+.começo h1{
+font-size: 60px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin: 20px 10px 10px 700px;
+color: rgb(12, 114, 231);
+}
+
+
+.começo img {
+    margin: 20px 10px 10px 600px;
+}
+
+
+.começo p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px 5px 10px 350px;
+}
+
+
+
+.caixa1 img{
+    margin: 20px 10px 10px 420px;
+    width: 1000px;
+    height: 400px;
+}
+
+
+.caixa1 h2{
+font-size: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin: 140px 10px 10px 750px;
+color: rgb(18, 104, 126);
+}
+
+
+.caixa1 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 5px 10px 350px;
+}
+
+
+
+.caixa2 h3{
+font-size: 60px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin: 200px 10px 10px 800px;
+color: rgb(14, 161, 137);
+}
+
+
+.caixa2 p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px 5px 10px 260px;
+}
+
+
+
+.caixa3 h2{
+    font-size: 60px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin: 120px 10px 10px 700px;
+color: rgb(8, 81, 190);
+}
+
+
+.caixa3 .img1 {
+    margin: 100px 10px 10px 640px;
+     width: auto;
+    height: 400px;
+}
+.caixa3 .h3-1{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 10px 10px 750px;
+}
+.caixa3 .p1{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 10px 10px 620px;
+}
+
+
+.caixa3 .img2{
+    margin: 200px 10px 10px 600px;
+    width: auto;
+    height: 600px;
+}
+.caixa3 .h3-2{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 10px 10px 700px;
+}
+.caixa3 .p2{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 10px 10px 550px;
+}
+
+
+.caixa3 .img3{
+    margin: 200px 10px 10px 600px;
+    width: auto;
+    height: 600px;
+}
+.caixa3 .h3-3{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 10px 10px 650px;
+}
+.caixa3 .p3{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 10px 10px 550px;
+}
+
+
+.caixa3 .img4{
+    margin: 200px 10px 10px 550px;
+    width: auto;
+    height: 600px;
+}
+.caixa3 .h3-4{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 10px 10px 750px;
+}
+.caixa3 .p4{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 10px 10px 500px;
+}
+
+
+.caixa3 .img5{
+    margin: 200px 10px 10px 640px;
+    width: auto;
+    height: 600px;
+}
+.caixa3 .h3-5{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 10px 10px 705px;
+}
+.caixa3 .p5{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 10px 10px 500px;
+}
+
+
+.caixa3 .img20{
+    margin: 200px 10px 10px 650px;
+    width: auto;
+    height: 600px;
+}
+.caixa3 .h3-6{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 10px 10px 750px;
+}
+.caixa3 .p6{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 10px 10px 500px;
+}
+
+
+.caixa3 .img30{
+    margin: 200px 10px 10px 560px;
+    width: auto;
+    height: 600px;
+}
+.caixa3 .h3-7{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 10px 10px 720px;
+}
+.caixa3 .p7{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 10px 10px 500px;
+}
