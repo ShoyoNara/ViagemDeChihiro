@@ -2,12 +2,24 @@ body{
     background-color: rgb(76, 187, 214);
 }
 
+.Pagina{
+    background-color: rgb(41, 109, 126);
+    font-size: 25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+}
 
+.pagina2{
+    background-color: rgb(41, 109, 126);
+    font-size: 25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+}
 
 .começo h1{
 font-size: 60px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-margin: 20px 10px 10px 700px;
+margin: 120px 10px 10px 700px;
 color: rgb(12, 114, 231);
 }
 
@@ -46,12 +58,16 @@ color: rgb(18, 104, 126);
     margin: 20px 5px 10px 350px;
 }
 
-
+.caixa2 img{
+    margin: 200px 10px 10px 420px;
+    width: 900px;
+    height: 500px;
+}
 
 .caixa2 h3{
 font-size: 60px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-margin: 200px 10px 10px 800px;
+margin: 50px 10px 10px 800px;
 color: rgb(14, 161, 137);
 }
 
@@ -59,7 +75,7 @@ color: rgb(14, 161, 137);
 .caixa2 p{
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 30px 5px 10px 260px;
+    margin: 30px 5px 200px 260px;
 }
 
 
@@ -67,25 +83,25 @@ color: rgb(14, 161, 137);
 .caixa3 h2{
     font-size: 60px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-margin: 120px 10px 10px 700px;
+text-align: center;
 color: rgb(8, 81, 190);
 }
 
 
 .caixa3 .img1 {
-    margin: 100px 10px 10px 640px;
+    margin: 60px 10px 10px 680px;
      width: auto;
     height: 400px;
 }
 .caixa3 .h3-1{
     font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin: 20px 10px 10px 750px;
+    text-align: center;
 }
 .caixa3 .p1{
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin: 20px 10px 10px 620px;
+text-align: center;
 }
 
 
@@ -187,5 +203,19 @@ color: rgb(8, 81, 190);
 .caixa3 .p7{
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin: 20px 10px 10px 500px;
+    margin: 20px 10px 170px 500px;
+}
+
+.Final2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(17, 149, 182);
+}
+.Final p{
+    font-size: 40px;
+    color: rgb(64, 48, 170);
+    text-align: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
